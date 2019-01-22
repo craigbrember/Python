@@ -1,3 +1,4 @@
+# Usage: SearchTxt.py -s <search string> -o <output file> 
 import os
 import sys, getopt 
 
